@@ -10,7 +10,7 @@ if (file_exists('include/bgtop.php')) { include_once('include/bgtop.php'); }
 else {echo "Грешка при include";}
 ?>
 
-<!--<div class="header">-->
+<<div class="header">
 
 </div>
 

@@ -1,14 +1,14 @@
 <?php
 echo "az sym ot Zlatko";
 if (file_exists('include/head.php')) { include_once('include/head.php'); }
-else {echo "Грешка при include";}
+else {echo "Р“СЂРµС€РєР° РїСЂРё include";}
 ?>
 <body>
 <center>
 
 <?php
 if (file_exists('include/bgtop.php')) { include_once('include/bgtop.php'); }
-else {echo "Грешка при include";}
+else {echo "Р“СЂРµС€РєР° РїСЂРё include";}
 ?>
 
 <<div class="header">
@@ -20,7 +20,7 @@ else {echo "Грешка при include";}
 <?php
 $page = "index";
 if (file_exists('include/menu.php')) { include_once('include/menu.php'); }
-else {echo "Грешка при include";}
+else {echo "Р“СЂРµС€РєР° РїСЂРё include";}
 ?>
 
 <div class="center">
@@ -74,8 +74,8 @@ echo "
 
 <div class="left">
 
-<h2 class="title"><b>Малко</b> промени</h2>
-<h2>Ако има новоизлезли проблеми, моля пишете ми в скайп на gatio_93. Благодаря!</h2>
+<h2 class="title"><b>РњР°Р»РєРѕ</b> РїСЂРѕРјРµРЅРё</h2>
+<h2>РђРєРѕ РёРјР° РЅРѕРІРѕРёР·Р»РµР·Р»Рё РїСЂРѕР±Р»РµРјРё, РјРѕР»СЏ РїРёС€РµС‚Рµ РјРё РІ СЃРєР°Р№Рї РЅР° gatio_93. Р‘Р»Р°РіРѕРґР°СЂСЏ!</h2>
 <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffrome2u.net&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>
 <br /><br /><br />
 
@@ -84,7 +84,7 @@ echo "
 
 <?php
 if (file_exists('include/right.php')) { include_once('include/right.php'); }
-else {echo "Грешка при include";}
+else {echo "Р“СЂРµС€РєР° РїСЂРё include";}
 ?>
 
 <div style="clear: both;"></div>

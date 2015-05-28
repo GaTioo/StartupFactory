@@ -1,4 +1,5 @@
 <?php
+echo "az sym ot Zlatko";
 if (file_exists('include/head.php')) { include_once('include/head.php'); }
 else {echo "Грешка при include";}
 ?>
